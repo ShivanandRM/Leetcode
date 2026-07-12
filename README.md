@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/ShivanandRM/Leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ShivanandRM/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0217-contains-duplicate](https://github.com/ShivanandRM/Leetcode/tree/master/0217-contains-duplicate) |
+| [0704-binary-search](https://github.com/ShivanandRM/Leetcode/tree/master/0704-binary-search) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ShivanandRM/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/ShivanandRM/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/ShivanandRM/Leetcode/tree/master/1470-shuffle-the-array) |
@@ -50,4 +51,8 @@
 |  |
 | ------- |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ShivanandRM/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/ShivanandRM/Leetcode/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
