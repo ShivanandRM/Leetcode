@@ -11,6 +11,7 @@
 | [0217-contains-duplicate](https://github.com/ShivanandRM/Leetcode/tree/master/0217-contains-duplicate) |
 | [0704-binary-search](https://github.com/ShivanandRM/Leetcode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ShivanandRM/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/ShivanandRM/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ShivanandRM/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/ShivanandRM/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/ShivanandRM/Leetcode/tree/master/1470-shuffle-the-array) |
@@ -66,6 +67,7 @@
 | [0367-valid-perfect-square](https://github.com/ShivanandRM/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/ShivanandRM/Leetcode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ShivanandRM/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/ShivanandRM/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Interactive
 |  |
 | ------- |
