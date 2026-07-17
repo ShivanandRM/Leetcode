@@ -8,6 +8,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ShivanandRM/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ShivanandRM/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/ShivanandRM/Leetcode/tree/master/0035-search-insert-position) |
+| [0162-find-peak-element](https://github.com/ShivanandRM/Leetcode/tree/master/0162-find-peak-element) |
 | [0217-contains-duplicate](https://github.com/ShivanandRM/Leetcode/tree/master/0217-contains-duplicate) |
 | [0704-binary-search](https://github.com/ShivanandRM/Leetcode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ShivanandRM/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -63,6 +64,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ShivanandRM/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/ShivanandRM/Leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/ShivanandRM/Leetcode/tree/master/0069-sqrtx) |
+| [0162-find-peak-element](https://github.com/ShivanandRM/Leetcode/tree/master/0162-find-peak-element) |
 | [0278-first-bad-version](https://github.com/ShivanandRM/Leetcode/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/ShivanandRM/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/ShivanandRM/Leetcode/tree/master/0704-binary-search) |
