@@ -11,6 +11,7 @@
 | [0035-search-insert-position](https://github.com/ShivanandRM/Leetcode/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/ShivanandRM/Leetcode/tree/master/0162-find-peak-element) |
 | [0217-contains-duplicate](https://github.com/ShivanandRM/Leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/ShivanandRM/Leetcode/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/ShivanandRM/Leetcode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ShivanandRM/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ShivanandRM/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -29,6 +30,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/ShivanandRM/Leetcode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/ShivanandRM/Leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/ShivanandRM/Leetcode/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -51,6 +53,7 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/ShivanandRM/Leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/ShivanandRM/Leetcode/tree/master/0268-missing-number) |
 | [1051-height-checker](https://github.com/ShivanandRM/Leetcode/tree/master/1051-height-checker) |
 ## Matrix
 |  |
@@ -60,6 +63,7 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/ShivanandRM/Leetcode/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/ShivanandRM/Leetcode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/ShivanandRM/Leetcode/tree/master/0367-valid-perfect-square) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ShivanandRM/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Binary Search
@@ -70,6 +74,7 @@
 | [0035-search-insert-position](https://github.com/ShivanandRM/Leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/ShivanandRM/Leetcode/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/ShivanandRM/Leetcode/tree/master/0162-find-peak-element) |
+| [0268-missing-number](https://github.com/ShivanandRM/Leetcode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/ShivanandRM/Leetcode/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/ShivanandRM/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/ShivanandRM/Leetcode/tree/master/0704-binary-search) |
@@ -85,4 +90,8 @@
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/ShivanandRM/Leetcode/tree/master/1051-height-checker) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/ShivanandRM/Leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
