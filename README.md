@@ -14,6 +14,7 @@
 | [0704-binary-search](https://github.com/ShivanandRM/Leetcode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ShivanandRM/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ShivanandRM/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1051-height-checker](https://github.com/ShivanandRM/Leetcode/tree/master/1051-height-checker) |
 | [1095-find-in-mountain-array](https://github.com/ShivanandRM/Leetcode/tree/master/1095-find-in-mountain-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ShivanandRM/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/ShivanandRM/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -50,6 +51,7 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/ShivanandRM/Leetcode/tree/master/0217-contains-duplicate) |
+| [1051-height-checker](https://github.com/ShivanandRM/Leetcode/tree/master/1051-height-checker) |
 ## Matrix
 |  |
 | ------- |
@@ -79,4 +81,8 @@
 | ------- |
 | [0278-first-bad-version](https://github.com/ShivanandRM/Leetcode/tree/master/0278-first-bad-version) |
 | [1095-find-in-mountain-array](https://github.com/ShivanandRM/Leetcode/tree/master/1095-find-in-mountain-array) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/ShivanandRM/Leetcode/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
