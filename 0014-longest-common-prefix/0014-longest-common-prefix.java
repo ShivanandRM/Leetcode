@@ -16,6 +16,7 @@ class Solution {
     
             }
         }
+        // when all strings in the array are same , return the reference string
         return strs[0];
     }
 }
