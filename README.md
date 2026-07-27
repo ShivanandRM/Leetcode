@@ -48,6 +48,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ShivanandRM/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0125-valid-palindrome](https://github.com/ShivanandRM/Leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/ShivanandRM/Leetcode/tree/master/0344-reverse-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ShivanandRM/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/ShivanandRM/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -65,6 +66,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ShivanandRM/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0125-valid-palindrome](https://github.com/ShivanandRM/Leetcode/tree/master/0125-valid-palindrome) |
 | [0287-find-the-duplicate-number](https://github.com/ShivanandRM/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/ShivanandRM/Leetcode/tree/master/0344-reverse-string) |
 ## Sorting
