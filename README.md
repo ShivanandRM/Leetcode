@@ -27,6 +27,7 @@
 | [1095-find-in-mountain-array](https://github.com/ShivanandRM/Leetcode/tree/master/1095-find-in-mountain-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ShivanandRM/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/ShivanandRM/Leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ShivanandRM/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/ShivanandRM/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/ShivanandRM/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/ShivanandRM/Leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -45,6 +46,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/ShivanandRM/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ShivanandRM/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/ShivanandRM/Leetcode/tree/master/0645-set-mismatch) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ShivanandRM/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/ShivanandRM/Leetcode/tree/master/1512-number-of-good-pairs) |
 ## String
 |  |
@@ -79,6 +81,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/ShivanandRM/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0645-set-mismatch](https://github.com/ShivanandRM/Leetcode/tree/master/0645-set-mismatch) |
 | [1051-height-checker](https://github.com/ShivanandRM/Leetcode/tree/master/1051-height-checker) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ShivanandRM/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Matrix
 |  |
 | ------- |
@@ -118,6 +121,7 @@
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/ShivanandRM/Leetcode/tree/master/1051-height-checker) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ShivanandRM/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/ShivanandRM/Leetcode/tree/master/1512-number-of-good-pairs) |
 ## Bit Manipulation
 |  |
