@@ -34,6 +34,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/ShivanandRM/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/ShivanandRM/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/ShivanandRM/Leetcode/tree/master/1672-richest-customer-wealth) |
+| [1773-count-items-matching-a-rule](https://github.com/ShivanandRM/Leetcode/tree/master/1773-count-items-matching-a-rule) |
 | [1920-build-array-from-permutation](https://github.com/ShivanandRM/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/ShivanandRM/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/ShivanandRM/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -57,6 +58,7 @@
 | [0125-valid-palindrome](https://github.com/ShivanandRM/Leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/ShivanandRM/Leetcode/tree/master/0344-reverse-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ShivanandRM/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1773-count-items-matching-a-rule](https://github.com/ShivanandRM/Leetcode/tree/master/1773-count-items-matching-a-rule) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/ShivanandRM/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/ShivanandRM/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Simulation
