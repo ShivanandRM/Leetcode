@@ -49,6 +49,7 @@
 | [0645-set-mismatch](https://github.com/ShivanandRM/Leetcode/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ShivanandRM/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/ShivanandRM/Leetcode/tree/master/1512-number-of-good-pairs) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/ShivanandRM/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## String
 |  |
 | ------- |
@@ -56,6 +57,7 @@
 | [0125-valid-palindrome](https://github.com/ShivanandRM/Leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/ShivanandRM/Leetcode/tree/master/0344-reverse-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ShivanandRM/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/ShivanandRM/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/ShivanandRM/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Simulation
 |  |
