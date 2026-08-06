@@ -12,6 +12,7 @@
 | [0035-search-insert-position](https://github.com/ShivanandRM/Leetcode/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/ShivanandRM/Leetcode/tree/master/0041-first-missing-positive) |
 | [0162-find-peak-element](https://github.com/ShivanandRM/Leetcode/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/ShivanandRM/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/ShivanandRM/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/ShivanandRM/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/ShivanandRM/Leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -80,6 +81,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ShivanandRM/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/ShivanandRM/Leetcode/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/ShivanandRM/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/ShivanandRM/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/ShivanandRM/Leetcode/tree/master/0344-reverse-string) |
 ## Sorting
@@ -113,6 +115,7 @@
 | [0035-search-insert-position](https://github.com/ShivanandRM/Leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/ShivanandRM/Leetcode/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/ShivanandRM/Leetcode/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/ShivanandRM/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/ShivanandRM/Leetcode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/ShivanandRM/Leetcode/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/ShivanandRM/Leetcode/tree/master/0287-find-the-duplicate-number) |
