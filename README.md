@@ -59,6 +59,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/ShivanandRM/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ShivanandRM/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ShivanandRM/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/ShivanandRM/Leetcode/tree/master/0567-permutation-in-string) |
 | [0645-set-mismatch](https://github.com/ShivanandRM/Leetcode/tree/master/0645-set-mismatch) |
 | [0904-fruit-into-baskets](https://github.com/ShivanandRM/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ShivanandRM/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -71,6 +72,7 @@
 | [0014-longest-common-prefix](https://github.com/ShivanandRM/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/ShivanandRM/Leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/ShivanandRM/Leetcode/tree/master/0344-reverse-string) |
+| [0567-permutation-in-string](https://github.com/ShivanandRM/Leetcode/tree/master/0567-permutation-in-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ShivanandRM/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1773-count-items-matching-a-rule](https://github.com/ShivanandRM/Leetcode/tree/master/1773-count-items-matching-a-rule) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/ShivanandRM/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -100,6 +102,7 @@
 | [0283-move-zeroes](https://github.com/ShivanandRM/Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/ShivanandRM/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/ShivanandRM/Leetcode/tree/master/0344-reverse-string) |
+| [0567-permutation-in-string](https://github.com/ShivanandRM/Leetcode/tree/master/0567-permutation-in-string) |
 ## Sorting
 |  |
 | ------- |
@@ -169,6 +172,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ShivanandRM/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0567-permutation-in-string](https://github.com/ShivanandRM/Leetcode/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/ShivanandRM/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/ShivanandRM/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [1052-grumpy-bookstore-owner](https://github.com/ShivanandRM/Leetcode/tree/master/1052-grumpy-bookstore-owner) |
