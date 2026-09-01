@@ -1,18 +1,27 @@
 class Solution {
     public int subarraySum(int[] nums, int k) {
-        HashMap<Integer, Integer> map = new HashMap<>();
+         HashMap<Integer, Integer> map = new HashMap<>();
+
+        // prefix sum 0 occurs once before the array starts
+        map.put(0, 1);
+
+        int prefixSum = 0;
         int count = 0;
-        int preSum = 0;
-        map.put(0,1);
-        for(int r=0;r<nums.length;r++){
-            preSum += nums[r];
-            int target = preSum - k;
-            if(map.containsKey(target)){
-                count+=map.get(target);
+
+        for (int num : nums) {
+
+            prefixSum += num;
+
+            // We need an earlier prefix sum = prefixSum - k
+            if (map.containsKey(prefixSum - k)) {
+                count += map.get(prefixSum - k);
             }
-            map.put(preSum, map.getOrDefault(preSum,0)+1);
+
+            // Store frequency of current prefix sum
+            map.put(prefixSum, map.getOrDefault(prefixSum, 0) + 1);
         }
-    return count;
+
+        return count;
 
         // int count = 0;
         // for(int i=0;i<nums.length;i++){
