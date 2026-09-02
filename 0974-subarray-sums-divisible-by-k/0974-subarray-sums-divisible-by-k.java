@@ -7,12 +7,12 @@ class Solution {
         for(int i=0;i<nums.length;i++){
             prefixSum += nums[i];
         
-        int required = ((prefixSum%k)+k)%k;
-        if(map.containsKey(required)){
-            count += map.get(required);
-        }
-        map.put(required, map.getOrDefault(required, 0)+1);
-        }
+            int required = ((prefixSum%k)+k)%k;
+            if(map.containsKey(required)){
+                count += map.get(required);
+            }
+            map.put(required, map.getOrDefault(required, 0)+1);
+            }
         return count;
     }
 }
