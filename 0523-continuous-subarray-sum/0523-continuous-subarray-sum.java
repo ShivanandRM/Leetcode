@@ -1,31 +1,22 @@
 class Solution {
     public boolean checkSubarraySum(int[] nums, int k) {
-       HashMap<Integer, Integer> map = new HashMap<>();
-
-        // remainder 0 exists before the array starts
-        map.put(0, -1);
-
+        HashMap<Integer, Integer> map = new HashMap<>();
         int prefixSum = 0;
-
-        for (int i = 0; i < nums.length; i++) {
-
+        map.put(0,-1);
+        for(int i=0;i<nums.length;i++){
             prefixSum += nums[i];
 
-            int remainder = prefixSum % k;
+            int reminder = prefixSum % k;
 
-            if (map.containsKey(remainder)) {
-
-                // Need at least 2 elements
-                if (i - map.get(remainder) >= 2) {
+            if(map.containsKey(reminder)){
+                if(i-map.get(reminder)>= 2){
                     return true;
                 }
-
-            } else {
-                // Store FIRST occurrence only
-                map.put(remainder, i);
+            }
+            if (!map.containsKey(reminder)) {
+                map.put(reminder, i);
             }
         }
-
-        return false;  
+        return false;
     }
 }
