@@ -69,6 +69,7 @@
 | [0041-first-missing-positive](https://github.com/ShivanandRM/Leetcode/tree/master/0041-first-missing-positive) |
 | [0217-contains-duplicate](https://github.com/ShivanandRM/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/ShivanandRM/Leetcode/tree/master/0268-missing-number) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/ShivanandRM/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ShivanandRM/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ShivanandRM/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0523-continuous-subarray-sum](https://github.com/ShivanandRM/Leetcode/tree/master/0523-continuous-subarray-sum) |
@@ -88,6 +89,7 @@
 | [0014-longest-common-prefix](https://github.com/ShivanandRM/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/ShivanandRM/Leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/ShivanandRM/Leetcode/tree/master/0344-reverse-string) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/ShivanandRM/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/ShivanandRM/Leetcode/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/ShivanandRM/Leetcode/tree/master/0647-palindromic-substrings) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ShivanandRM/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -204,6 +206,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ShivanandRM/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/ShivanandRM/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/ShivanandRM/Leetcode/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/ShivanandRM/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/ShivanandRM/Leetcode/tree/master/0904-fruit-into-baskets) |
