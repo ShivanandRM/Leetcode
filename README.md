@@ -61,6 +61,7 @@
 | [1672-richest-customer-wealth](https://github.com/ShivanandRM/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/ShivanandRM/Leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1773-count-items-matching-a-rule](https://github.com/ShivanandRM/Leetcode/tree/master/1773-count-items-matching-a-rule) |
+| [1870-minimum-speed-to-arrive-on-time](https://github.com/ShivanandRM/Leetcode/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1920-build-array-from-permutation](https://github.com/ShivanandRM/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/ShivanandRM/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/ShivanandRM/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -191,6 +192,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/ShivanandRM/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ShivanandRM/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1095-find-in-mountain-array](https://github.com/ShivanandRM/Leetcode/tree/master/1095-find-in-mountain-array) |
+| [1870-minimum-speed-to-arrive-on-time](https://github.com/ShivanandRM/Leetcode/tree/master/1870-minimum-speed-to-arrive-on-time) |
 ## Interactive
 |  |
 | ------- |
