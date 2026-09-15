@@ -57,6 +57,7 @@
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/ShivanandRM/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/ShivanandRM/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/ShivanandRM/Leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ShivanandRM/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1512-number-of-good-pairs](https://github.com/ShivanandRM/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/ShivanandRM/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/ShivanandRM/Leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -192,6 +193,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/ShivanandRM/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ShivanandRM/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1095-find-in-mountain-array](https://github.com/ShivanandRM/Leetcode/tree/master/1095-find-in-mountain-array) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ShivanandRM/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/ShivanandRM/Leetcode/tree/master/1870-minimum-speed-to-arrive-on-time) |
 ## Interactive
 |  |
