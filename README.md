@@ -168,6 +168,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/ShivanandRM/Leetcode/tree/master/0007-reverse-integer) |
 | [0069-sqrtx](https://github.com/ShivanandRM/Leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/ShivanandRM/Leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/ShivanandRM/Leetcode/tree/master/0231-power-of-two) |
