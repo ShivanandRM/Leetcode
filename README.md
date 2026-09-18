@@ -23,6 +23,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ShivanandRM/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/ShivanandRM/Leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ShivanandRM/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/ShivanandRM/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/ShivanandRM/Leetcode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/ShivanandRM/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/ShivanandRM/Leetcode/tree/master/0217-contains-duplicate) |
@@ -77,6 +78,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/ShivanandRM/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/ShivanandRM/Leetcode/tree/master/0041-first-missing-positive) |
 | [0076-minimum-window-substring](https://github.com/ShivanandRM/Leetcode/tree/master/0076-minimum-window-substring) |
+| [0169-majority-element](https://github.com/ShivanandRM/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ShivanandRM/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/ShivanandRM/Leetcode/tree/master/0268-missing-number) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ShivanandRM/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -152,6 +154,7 @@
 | [0015-3sum](https://github.com/ShivanandRM/Leetcode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/ShivanandRM/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ShivanandRM/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/ShivanandRM/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ShivanandRM/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/ShivanandRM/Leetcode/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ShivanandRM/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -213,6 +216,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/ShivanandRM/Leetcode/tree/master/0169-majority-element) |
 | [1051-height-checker](https://github.com/ShivanandRM/Leetcode/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ShivanandRM/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/ShivanandRM/Leetcode/tree/master/1512-number-of-good-pairs) |
@@ -286,6 +290,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ShivanandRM/Leetcode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/ShivanandRM/Leetcode/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ShivanandRM/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0918-maximum-sum-circular-subarray](https://github.com/ShivanandRM/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Queue
@@ -304,4 +309,8 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ShivanandRM/Leetcode/tree/master/0005-longest-palindromic-substring) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ShivanandRM/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
