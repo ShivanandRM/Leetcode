@@ -111,6 +111,7 @@
 | [0647-palindromic-substrings](https://github.com/ShivanandRM/Leetcode/tree/master/0647-palindromic-substrings) |
 | [1021-remove-outermost-parentheses](https://github.com/ShivanandRM/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ShivanandRM/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ShivanandRM/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1773-count-items-matching-a-rule](https://github.com/ShivanandRM/Leetcode/tree/master/1773-count-items-matching-a-rule) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/ShivanandRM/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/ShivanandRM/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -293,6 +294,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ShivanandRM/Leetcode/tree/master/0042-trapping-rain-water) |
 | [1021-remove-outermost-parentheses](https://github.com/ShivanandRM/Leetcode/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ShivanandRM/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -328,4 +330,5 @@
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/ShivanandRM/Leetcode/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ShivanandRM/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
