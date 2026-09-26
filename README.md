@@ -109,6 +109,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/ShivanandRM/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/ShivanandRM/Leetcode/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/ShivanandRM/Leetcode/tree/master/0647-palindromic-substrings) |
+| [1021-remove-outermost-parentheses](https://github.com/ShivanandRM/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ShivanandRM/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1773-count-items-matching-a-rule](https://github.com/ShivanandRM/Leetcode/tree/master/1773-count-items-matching-a-rule) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/ShivanandRM/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -291,6 +292,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ShivanandRM/Leetcode/tree/master/0042-trapping-rain-water) |
+| [1021-remove-outermost-parentheses](https://github.com/ShivanandRM/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -322,4 +324,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ShivanandRM/Leetcode/tree/master/0169-majority-element) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/ShivanandRM/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
