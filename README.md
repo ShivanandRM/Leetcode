@@ -203,6 +203,7 @@
 | [0367-valid-perfect-square](https://github.com/ShivanandRM/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/ShivanandRM/Leetcode/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/ShivanandRM/Leetcode/tree/master/0523-continuous-subarray-sum) |
+| [0779-k-th-symbol-in-grammar](https://github.com/ShivanandRM/Leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ShivanandRM/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ShivanandRM/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/ShivanandRM/Leetcode/tree/master/1512-number-of-good-pairs) |
@@ -257,6 +258,7 @@
 | [0268-missing-number](https://github.com/ShivanandRM/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/ShivanandRM/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/ShivanandRM/Leetcode/tree/master/0645-set-mismatch) |
+| [0779-k-th-symbol-in-grammar](https://github.com/ShivanandRM/Leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ShivanandRM/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Trie
 |  |
@@ -298,6 +300,7 @@
 | [0050-powx-n](https://github.com/ShivanandRM/Leetcode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/ShivanandRM/Leetcode/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/ShivanandRM/Leetcode/tree/master/0509-fibonacci-number) |
+| [0779-k-th-symbol-in-grammar](https://github.com/ShivanandRM/Leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 ## Memoization
 |  |
 | ------- |
