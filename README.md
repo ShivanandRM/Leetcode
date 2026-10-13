@@ -74,6 +74,7 @@
 | [1552-magnetic-force-between-two-balls](https://github.com/ShivanandRM/Leetcode/tree/master/1552-magnetic-force-between-two-balls) |
 | [1672-richest-customer-wealth](https://github.com/ShivanandRM/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/ShivanandRM/Leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/ShivanandRM/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1773-count-items-matching-a-rule](https://github.com/ShivanandRM/Leetcode/tree/master/1773-count-items-matching-a-rule) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/ShivanandRM/Leetcode/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1920-build-array-from-permutation](https://github.com/ShivanandRM/Leetcode/tree/master/1920-build-array-from-permutation) |
