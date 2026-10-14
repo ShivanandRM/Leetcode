@@ -18,6 +18,7 @@
 | [0042-trapping-rain-water](https://github.com/ShivanandRM/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/ShivanandRM/Leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/ShivanandRM/Leetcode/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/ShivanandRM/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/ShivanandRM/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/ShivanandRM/Leetcode/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ShivanandRM/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -90,6 +91,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/ShivanandRM/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/ShivanandRM/Leetcode/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/ShivanandRM/Leetcode/tree/master/0041-first-missing-positive) |
+| [0073-set-matrix-zeroes](https://github.com/ShivanandRM/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/ShivanandRM/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0169-majority-element](https://github.com/ShivanandRM/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ShivanandRM/Leetcode/tree/master/0217-contains-duplicate) |
@@ -189,6 +191,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/ShivanandRM/Leetcode/tree/master/0048-rotate-image) |
+| [0073-set-matrix-zeroes](https://github.com/ShivanandRM/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/ShivanandRM/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ShivanandRM/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/ShivanandRM/Leetcode/tree/master/1380-lucky-numbers-in-a-matrix) |
