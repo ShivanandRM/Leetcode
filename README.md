@@ -33,6 +33,7 @@
 | [0189-rotate-array](https://github.com/ShivanandRM/Leetcode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/ShivanandRM/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/ShivanandRM/Leetcode/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/ShivanandRM/Leetcode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/ShivanandRM/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ShivanandRM/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/ShivanandRM/Leetcode/tree/master/0268-missing-number) |
@@ -95,6 +96,7 @@
 | [0076-minimum-window-substring](https://github.com/ShivanandRM/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0169-majority-element](https://github.com/ShivanandRM/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ShivanandRM/Leetcode/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/ShivanandRM/Leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/ShivanandRM/Leetcode/tree/master/0268-missing-number) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ShivanandRM/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ShivanandRM/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -181,6 +183,7 @@
 | [0088-merge-sorted-array](https://github.com/ShivanandRM/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/ShivanandRM/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ShivanandRM/Leetcode/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/ShivanandRM/Leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/ShivanandRM/Leetcode/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ShivanandRM/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0645-set-mismatch](https://github.com/ShivanandRM/Leetcode/tree/master/0645-set-mismatch) |
@@ -257,6 +260,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ShivanandRM/Leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/ShivanandRM/Leetcode/tree/master/0229-majority-element-ii) |
 | [1051-height-checker](https://github.com/ShivanandRM/Leetcode/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ShivanandRM/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/ShivanandRM/Leetcode/tree/master/1512-number-of-good-pairs) |
@@ -365,6 +369,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ShivanandRM/Leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/ShivanandRM/Leetcode/tree/master/0229-majority-element-ii) |
 ## Bracket Sequences
 |  |
 | ------- |
