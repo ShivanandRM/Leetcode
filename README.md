@@ -51,6 +51,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/ShivanandRM/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/ShivanandRM/Leetcode/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ShivanandRM/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0832-flipping-an-image](https://github.com/ShivanandRM/Leetcode/tree/master/0832-flipping-an-image) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ShivanandRM/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/ShivanandRM/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/ShivanandRM/Leetcode/tree/master/0904-fruit-into-baskets) |
@@ -136,6 +137,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0832-flipping-an-image](https://github.com/ShivanandRM/Leetcode/tree/master/0832-flipping-an-image) |
 | [1389-create-target-array-in-the-given-order](https://github.com/ShivanandRM/Leetcode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1920-build-array-from-permutation](https://github.com/ShivanandRM/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/ShivanandRM/Leetcode/tree/master/1929-concatenation-of-array) |
@@ -174,6 +176,7 @@
 | [0344-reverse-string](https://github.com/ShivanandRM/Leetcode/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/ShivanandRM/Leetcode/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/ShivanandRM/Leetcode/tree/master/0647-palindromic-substrings) |
+| [0832-flipping-an-image](https://github.com/ShivanandRM/Leetcode/tree/master/0832-flipping-an-image) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ShivanandRM/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Sorting
 |  |
@@ -197,6 +200,7 @@
 | [0073-set-matrix-zeroes](https://github.com/ShivanandRM/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/ShivanandRM/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ShivanandRM/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0832-flipping-an-image](https://github.com/ShivanandRM/Leetcode/tree/master/0832-flipping-an-image) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/ShivanandRM/Leetcode/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1672-richest-customer-wealth](https://github.com/ShivanandRM/Leetcode/tree/master/1672-richest-customer-wealth) |
 ## Math
@@ -273,6 +277,7 @@
 | [0287-find-the-duplicate-number](https://github.com/ShivanandRM/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/ShivanandRM/Leetcode/tree/master/0645-set-mismatch) |
 | [0779-k-th-symbol-in-grammar](https://github.com/ShivanandRM/Leetcode/tree/master/0779-k-th-symbol-in-grammar) |
+| [0832-flipping-an-image](https://github.com/ShivanandRM/Leetcode/tree/master/0832-flipping-an-image) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ShivanandRM/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Trie
 |  |
