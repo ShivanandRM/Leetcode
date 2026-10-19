@@ -212,6 +212,7 @@
 | [0013-roman-to-integer](https://github.com/ShivanandRM/Leetcode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/ShivanandRM/Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/ShivanandRM/Leetcode/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/ShivanandRM/Leetcode/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/ShivanandRM/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/ShivanandRM/Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/ShivanandRM/Leetcode/tree/master/0189-rotate-array) |
@@ -307,6 +308,7 @@
 | [0005-longest-palindromic-substring](https://github.com/ShivanandRM/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/ShivanandRM/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/ShivanandRM/Leetcode/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/ShivanandRM/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/ShivanandRM/Leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/ShivanandRM/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/ShivanandRM/Leetcode/tree/master/0119-pascals-triangle-ii) |
@@ -403,4 +405,8 @@
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/ShivanandRM/Leetcode/tree/master/0493-reverse-pairs) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/ShivanandRM/Leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
