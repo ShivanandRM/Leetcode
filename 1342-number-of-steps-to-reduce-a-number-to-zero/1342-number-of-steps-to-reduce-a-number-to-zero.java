@@ -22,9 +22,8 @@ class Solution {
         }
         while(num>0){
             if(num%2==0){
-                
-                count++;
                 num /= 2;
+                count++;
             }else{
                 num -= 1;
                 count++;
