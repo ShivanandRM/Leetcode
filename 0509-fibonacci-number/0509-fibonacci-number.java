@@ -14,6 +14,6 @@ class Solution {
             count++;
        }
     //     return a;*/
-        return fib(n-1)+fib(n-2)   ;
+        return fib(n-1)+fib(n-2);
     }
 }
