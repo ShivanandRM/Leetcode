@@ -326,6 +326,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/ShivanandRM/Leetcode/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/ShivanandRM/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/ShivanandRM/Leetcode/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/ShivanandRM/Leetcode/tree/master/0509-fibonacci-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/ShivanandRM/Leetcode/tree/master/0779-k-th-symbol-in-grammar) |
@@ -415,4 +416,8 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/ShivanandRM/Leetcode/tree/master/0062-unique-paths) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/ShivanandRM/Leetcode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
