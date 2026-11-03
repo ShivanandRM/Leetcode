@@ -247,6 +247,7 @@
 | [0278-first-bad-version](https://github.com/ShivanandRM/Leetcode/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/ShivanandRM/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0367-valid-perfect-square](https://github.com/ShivanandRM/Leetcode/tree/master/0367-valid-perfect-square) |
+| [0374-guess-number-higher-or-lower](https://github.com/ShivanandRM/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0493-reverse-pairs](https://github.com/ShivanandRM/Leetcode/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ShivanandRM/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/ShivanandRM/Leetcode/tree/master/0704-binary-search) |
@@ -266,6 +267,7 @@
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/ShivanandRM/Leetcode/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/ShivanandRM/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [1095-find-in-mountain-array](https://github.com/ShivanandRM/Leetcode/tree/master/1095-find-in-mountain-array) |
 ## Counting Sort
 |  |
