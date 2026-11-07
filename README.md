@@ -227,6 +227,7 @@
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ShivanandRM/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ShivanandRM/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/ShivanandRM/Leetcode/tree/master/1512-number-of-good-pairs) |
+| [1922-count-good-numbers](https://github.com/ShivanandRM/Leetcode/tree/master/1922-count-good-numbers) |
 | [2235-add-two-integers](https://github.com/ShivanandRM/Leetcode/tree/master/2235-add-two-integers) |
 ## Binary Search
 |  |
@@ -332,6 +333,7 @@
 | [0231-power-of-two](https://github.com/ShivanandRM/Leetcode/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/ShivanandRM/Leetcode/tree/master/0509-fibonacci-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/ShivanandRM/Leetcode/tree/master/0779-k-th-symbol-in-grammar) |
+| [1922-count-good-numbers](https://github.com/ShivanandRM/Leetcode/tree/master/1922-count-good-numbers) |
 ## Memoization
 |  |
 | ------- |
