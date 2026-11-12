@@ -24,6 +24,7 @@
 | [0073-set-matrix-zeroes](https://github.com/ShivanandRM/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/ShivanandRM/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/ShivanandRM/Leetcode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/ShivanandRM/Leetcode/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ShivanandRM/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/ShivanandRM/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/ShivanandRM/Leetcode/tree/master/0118-pascals-triangle) |
@@ -284,6 +285,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/ShivanandRM/Leetcode/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/ShivanandRM/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ShivanandRM/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/ShivanandRM/Leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -431,4 +433,5 @@
 | ------- |
 | [0039-combination-sum](https://github.com/ShivanandRM/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/ShivanandRM/Leetcode/tree/master/0040-combination-sum-ii) |
+| [0078-subsets](https://github.com/ShivanandRM/Leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
