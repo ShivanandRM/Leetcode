@@ -130,6 +130,7 @@
 | [0008-string-to-integer-atoi](https://github.com/ShivanandRM/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/ShivanandRM/Leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/ShivanandRM/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0022-generate-parentheses](https://github.com/ShivanandRM/Leetcode/tree/master/0022-generate-parentheses) |
 | [0076-minimum-window-substring](https://github.com/ShivanandRM/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/ShivanandRM/Leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/ShivanandRM/Leetcode/tree/master/0344-reverse-string) |
@@ -322,6 +323,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ShivanandRM/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/ShivanandRM/Leetcode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ShivanandRM/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/ShivanandRM/Leetcode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/ShivanandRM/Leetcode/tree/master/0062-unique-paths) |
@@ -405,6 +407,7 @@
 ## Bracket Sequences
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/ShivanandRM/Leetcode/tree/master/0022-generate-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/ShivanandRM/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ShivanandRM/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Binary Indexed Tree
@@ -439,6 +442,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/ShivanandRM/Leetcode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/ShivanandRM/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/ShivanandRM/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/ShivanandRM/Leetcode/tree/master/0078-subsets) |
