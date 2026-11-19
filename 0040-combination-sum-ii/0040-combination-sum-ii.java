@@ -5,8 +5,7 @@ class Solution {
         findCombination(0, candidates, target, new ArrayList<>(), ans);
         return ans;
     }
-    static void findCombination(int index, int[] arr, int target,
-                                List<Integer> ds,
+    static void findCombination(int index, int[] arr, int target,List<Integer> ds,
                                 List<List<Integer>> ans) {
         if (target == 0) {
             ans.add(new ArrayList<>(ds));
