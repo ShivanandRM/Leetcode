@@ -20,6 +20,7 @@
 | [0041-first-missing-positive](https://github.com/ShivanandRM/Leetcode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/ShivanandRM/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/ShivanandRM/Leetcode/tree/master/0048-rotate-image) |
+| [0051-n-queens](https://github.com/ShivanandRM/Leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/ShivanandRM/Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/ShivanandRM/Leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/ShivanandRM/Leetcode/tree/master/0073-set-matrix-zeroes) |
@@ -450,6 +451,7 @@
 | [0022-generate-parentheses](https://github.com/ShivanandRM/Leetcode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/ShivanandRM/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/ShivanandRM/Leetcode/tree/master/0040-combination-sum-ii) |
+| [0051-n-queens](https://github.com/ShivanandRM/Leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/ShivanandRM/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/ShivanandRM/Leetcode/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/ShivanandRM/Leetcode/tree/master/0216-combination-sum-iii) |
@@ -462,4 +464,8 @@
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/ShivanandRM/Leetcode/tree/master/0494-target-sum) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/ShivanandRM/Leetcode/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
